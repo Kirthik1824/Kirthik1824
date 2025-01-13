@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a programmer, who loves to build stuff.\
 Solving problems that arise in the process of building something either satisfies me or drives me crazy.
 
+
 * 🌍  I'm based in Trichy
 * 🖥️  See my portfolio at [MyPortfolio](http://kirthikm.netlify.app/)
 * ✉️  You can contact me at [kirthik.nitt@gmail.com](mailto:kirthik.nitt@gmail.com)
@@ -23,5 +24,5 @@ Solving problems that arise in the process of building something either satisfie
 
 **Frontend:**
 
-*Portfolio Website
-*Space Shooter 
+* Portfolio Website
+* Space Shooter 
