@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirthik M
 =================================================================================================================================
 
-Programmer
-----------
-
 I am a programmer, who loves to build stuff. Solving problems that arise in the process of building something either satisfies me or drives me crazy.
 
 * 🌍  I'm based in Trichy
