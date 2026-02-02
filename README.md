@@ -1,6 +1,6 @@
 <div align="center">
 
-# > KIRTHIK.M_
+# > KIRTHIK M_
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  > SYSTEM ONLINE_                                             ║
