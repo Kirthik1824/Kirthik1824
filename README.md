@@ -1,10 +1,10 @@
 <div align="center">
 
-# ⚡ KIRTHIK M ⚡
+#  KIRTHIK M 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  > SYSTEM ONLINE_                                             ║
-║  > BACKEND ARCHITECT | AI ENGINEER | INFRASTRUCTURE HACKER    ║
+║  > BACKEND ENGINEER | AI ARCHITECT | DISTRIBUTED SYSTEMS      ║
 ║  > LOCATION: TRICHY.IN >> UPTIME: 24/7                        ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -46,10 +46,10 @@ class Developer:
 
 ---
 
-## 🔥 ACTIVE OPERATIONS
+## 🔥 EXPERIENCE LOG
 
 ### 💼 **Razorpay** · SDE Intern
-> Building distributed secret management infrastructure with cell-based architecture  
+> Built distributed secret management infrastructure with cell-based architecture  
 > `Go` `AWS` `DynamoDB` `Kubernetes` `Terraform` `OAuth2`
 
 ### 🎓 **IISc Bangalore** · Research Intern  
@@ -119,18 +119,10 @@ class Developer:
 
 ## 🏆 ACHIEVEMENTS UNLOCKED
 ```yaml
-Academic:
-  - S J Chainulu Medal of Excellence: Department Rank 1
-  - KVPY Scholar 2022: IISc Bangalore Admission Offer
-  
-Competitive:
   - Smart India Hackathon 2025: Finalist
   - TransfiNITTe 2025: Winner
   - OMRL Computer Vision Challenge 2025: Winner
   - Pragyaan Startup Hackathon 2023: Runner-up (250+ teams)
-  
-Olympiads:
-  - International Mathematics Olympiad: Gold Medal (2x)
 ```
 
 ---
@@ -154,8 +146,8 @@ Olympiads:
 const kirthik = {
     status: "Building & Breaking Things",
     focus: ["Distributed Systems", "AI Infrastructure", "Backend Performance"],
-    workingOn: "Secret Management at Scale",
-    openTo: ["Collaborations", "Open Source", "Interesting Problems"],
+    learning: ["Advanced System Design", "LLM Infrastructure"],
+    openTo: ["Collaborations", "Open Source", "Interesting Problems". "Startups"],
     funFact: "Solving bugs either satisfies me or drives me crazy—no in-between"
 };
 ```
