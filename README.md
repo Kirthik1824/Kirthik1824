@@ -131,13 +131,14 @@ class Developer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirthik1824&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF006E&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirthik1824&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF006E&text_color=FFFFFF&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthik1824&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthik1824&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kirthik1824&theme=synthwave&hide_border=true&background=0D1117&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kirthik1824&theme=synthwave&hide_border=true&background=0D1117&ring=00F7FF&fire=FF006E&currStreakLabel=00F7FF)
 
 </div>
+
 
 ---
 
